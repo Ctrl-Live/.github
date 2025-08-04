@@ -6,7 +6,7 @@
 ### 🗓️ Weekly Meetup  
 **Every Friday**  
 🕕 **6:00 PM [Your Time Zone]**  
-📍 **Google Meet** – [RSVP](https://zenlipa.com/your-event-link)
+📍 **Google Meet** – [RSVP](https://zenlipa.co.ke/events/WShZbq)
 
 RSVP to get the meeting link, speaker updates, and reminders.
 
@@ -30,7 +30,7 @@ We welcome devs of all levels and tech stacks.
 
 ### 🔗 Quick Links
 
-- 📅 [RSVP on Zenlipa](https://zenlipa.com/your-event-link)
+- 📅 [RSVP on Zenlipa](https://zenlipa.co.ke/events/WShZbq)
 - 🎙️ [Apply to speak](https://your-speaker-application-form.com)
 - 💬 [Join the chat](#) *(Discord/Slack)*
 - 🐦 [Follow us on Twitter/X](https://twitter.com/your-twitter-handle) — for updates, lineups & highlights
