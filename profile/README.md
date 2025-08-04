@@ -4,8 +4,8 @@
 **CTRL+Live** is a real-time coding meetup where developers come together to build, debug, and learn — live and unfiltered.
 
 ### 🗓️ Weekly Meetup  
-**Every Friday**  
-🕕 **6:00 PM [Your Time Zone]**  
+**Every Sunday**  
+🕕 **8:00 PM EAT**  
 📍 **Google Meet** – [RSVP](https://zenlipa.co.ke/events/WShZbq)
 
 RSVP to get the meeting link, speaker updates, and reminders.
