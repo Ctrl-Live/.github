@@ -20,18 +20,18 @@ CTRL+Live is a developer meetup built around:
 
 No slides. No fluff. Just code.
 
-### 🎤 Want to Host a Live Coding Session?
+### Want to Host a Live Coding Session?
 
 Share your project, idea, or experiment — raw and real.  
-🧑‍💻 [Apply to speak](https://your-speaker-application-form.com)
+🧑‍💻 [Apply to code live](https://forms.gle/srAXECkApxHYiWYX8)
 
 We welcome devs of all levels and tech stacks.
 
 
-### 🔗 Quick Links
+### Quick Links
 
 - 📅 [RSVP on Zenlipa](https://zenlipa.co.ke/events/WShZbq)
-- 🎙️ [Apply to code live](https://your-speaker-application-form.com)
+- 🎙️ [Apply to code live]([https://your-speaker-application-form.com](https://forms.gle/srAXECkApxHYiWYX8))
 - 🐦 [Follow us on Twitter/X](https://x.com/ctrllive_code) — for updates, lineups & highlights
 
 ### Who’s It For?
@@ -47,6 +47,6 @@ If you love live, unscripted, collaborative coding — **CTRL+Live** is your cre
 Follow us, RSVP weekly, and bring your keyboard.  
 **Because great code doesn’t wait — and neither should you.**
 
-📍 *Streaming via Google Meet every Friday*  
-📣 *Updates on [Twitter/X](https://x.com/ctrllive_code)*  
-🧩 *Powered by devs like you.*
+*Streaming via Google Meet every Sunday 8PM - 9PM*  
+*Updates on [Twitter/X](https://x.com/ctrllive_code)*  
+*Powered by devs like you. ❤️
