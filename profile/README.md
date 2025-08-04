@@ -1,9 +1,5 @@
 
-<img width="102" height="102" alt="Modern CTRL+Live Logo Design" src="https://github.com/user-attachments/assets/967ac1b6-9c3c-4b8b-926d-c718326a40e8" />
-
 <img width="1536" height="1024" alt="ChatGPT Image Aug 4, 2025 at 04_58_57 AM" src="https://github.com/user-attachments/assets/4e71ef05-907d-4178-973d-05339e504daf" />
-
-> **Because great code doesn’t wait.**
 
 **CTRL+Live** is a real-time coding meetup where developers come together to build, debug, and learn — live and unfiltered.
 
