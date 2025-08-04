@@ -1,5 +1,5 @@
 
-# CTRL+Live
+<img width="1024" height="1024" alt="Modern CTRL+Live Logo Design" src="https://github.com/user-attachments/assets/967ac1b6-9c3c-4b8b-926d-c718326a40e8" />
 
 > **Because great code doesn’t wait.**
 
@@ -53,3 +53,6 @@ Follow us, RSVP weekly, and bring your keyboard.
 📍 *Streaming via Google Meet every Friday*  
 📣 *Updates on [Twitter/X](https://twitter.com/your-twitter-handle)*  
 🧩 *Powered by devs like you.*
+
+<img width="1536" height="1024" alt="ChatGPT Image Aug 4, 2025 at 04_58_57 AM" src="https://github.com/user-attachments/assets/4e71ef05-907d-4178-973d-05339e504daf" />
+
