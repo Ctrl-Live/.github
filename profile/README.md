@@ -31,7 +31,7 @@ We welcome devs of all levels and tech stacks.
 ### Quick Links
 
 - 📅 [RSVP on Zenlipa](https://zenlipa.co.ke/events/WShZbq)
-- 🎙️ [Apply to code live]([https://your-speaker-application-form.com](https://forms.gle/srAXECkApxHYiWYX8))
+- 🎙️ [Apply to code live](https://forms.gle/srAXECkApxHYiWYX8)
 - 🐦 [Follow us on Twitter/X](https://x.com/ctrllive_code) — for updates, lineups & highlights
 
 ### Who’s It For?
